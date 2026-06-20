@@ -1,8 +1,20 @@
 {
-  "name": "snake-game",
+  "name": "differential-snake",
   "private": true,
-  "version": "1.0.0",
+  "version": "2.0.0",
+  "description": "A medical heart-monitor themed Snake game — diagnose, dose up on pills, and stay off the flatline. Built with Vite, no framework.",
   "type": "module",
+  "license": "MIT",
+  "keywords": [
+    "snake",
+    "game",
+    "canvas",
+    "vite",
+    "vanilla-js",
+    "html5-game",
+    "ecg",
+    "medical"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "vite build",
